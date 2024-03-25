@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# React ToDo List - Database and Authentication
+
+## Credits:
+
+#### Name: Ostein Vittorio Vellim
+#### Student ID: 2602206783
+#### Class: L4CC
+
+[Tutorial used for this project](https://www.youtube.com/watch?v=9orKRpPMveY)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
